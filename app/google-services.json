@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "358453849807",
+    "project_id": "projetosalao-3650e",
+    "storage_bucket": "projetosalao-3650e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358453849807:android:50938d078dc4363073d1ba",
+        "android_client_info": {
+          "package_name": "com.example.salobeleza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb_Jm9mHV1OwLohAUHWUXYhgSLiDDi9B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
