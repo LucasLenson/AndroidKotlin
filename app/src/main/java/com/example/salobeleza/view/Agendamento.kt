@@ -122,6 +122,7 @@ class Agendamento : AppCompatActivity() {
             .addOnCompleteListener {
                 if (it.isSuccessful) {
                     mensagem(view, "Agendamento realizado com sucesso!", "#FF03DAC5")
+                    finish() // Fecha a Activity atual e retorna para a anterior
                 } else {
                     mensagem(view, "Erro ao realizar o agendamento!", "#FF0000")
                 }
@@ -131,3 +132,4 @@ class Agendamento : AppCompatActivity() {
             }
     }
 }
+
